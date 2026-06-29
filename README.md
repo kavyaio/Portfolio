@@ -2,6 +2,10 @@
 
 This repository hosts **two distinct premium developer portfolio websites**. It showcases professional engineering skills, timelines, and projects using two separate high-end styling systems.
 
+## 🔗 Live Demos
+- 🎨 **[Open Minimalist Elegant Portfolio Live Here!](https://kavyaio.github.io/portfolio/index.html)**
+- 👾 **[Open Retro Cyberpunk Portfolio Live Here!](https://kavyaio.github.io/portfolio/cyberpunk-portfolio.html)**
+
 ---
 
 ## 📸 Screenshots
